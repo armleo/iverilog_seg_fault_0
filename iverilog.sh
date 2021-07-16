@@ -1,0 +1,1 @@
+iverilog a.v tb.v
